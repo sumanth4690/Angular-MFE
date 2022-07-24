@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "home": "apps/home",
+    "home-e2e": "apps/home-e2e",
     "remote": "apps/remote",
     "remote-e2e": "apps/remote-e2e"
   }
